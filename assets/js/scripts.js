@@ -1,4 +1,4 @@
 document.write("This is written from JavaScript");
 
-var heading1 = document.getElementsByTagName('h1')[0]
-heading1.style.color = 'red'
+var heading2 = document.getElementsByTagName('h2')[0]
+heading2.style.color = 'red'
